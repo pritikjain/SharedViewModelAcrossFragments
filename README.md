@@ -1,7 +1,9 @@
-Cupcake app
+
 # SharedViewModelAcrossFragments
 
+Cupcake app
 =================================
+
 Learn how to use a shared ViewModel to share data between the fragments of the same activity and new concepts like LiveData transformations.
 
 This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
